@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.item{
+
+	list-style-type: none;
+	width: 15%;
+	display: inline-block;
+	height: 200px;
+	margin: 2%;
+	top: 0;
+	text-align: center;
+}
+
+.else{
+	text-align: center;
+	font-size: 2em;
+}
+
+.temperatura{
+	background-color: blue;
+	height: 60%;
+	line-height: 110px;
+	color: white;
+}
+
+.descricao{
+	background-color: lightblue;
+	height: 30%;
+	line-height: 55px;
+	font-size: 1em;
+}
+
+.data{
+	height: 10%;
+	line-height: 25px;
+	font-size: 1em;
+}
